@@ -12,6 +12,7 @@ const learn = () => {
             <p className="text-gray-500 mb-3">
               Clone the repository from GitHub using the provided URL:
             </p>
+            <p><strong>https://github.com/Deeproshan-Kumar/bluebash-assignment</strong></p>
             <p className="text-gray-500 mb-3">🔵 bash</p>
             <p className="text-gray-500 mb-3">🔵 git clone</p>
           </li>

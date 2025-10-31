@@ -9,6 +9,8 @@ Follow the steps below to set up and run the project locally.
 # 1. Clone the Repository
 Clone the repository from GitHub using the provided URL:
 
+### https://github.com/Deeproshan-Kumar/bluebash-assignment
+
 ## bash
 git clone 
 
@@ -33,7 +35,9 @@ Start the Email App (Host) in development mode:
 
 ## Build Email App CSS
 
-## Build the CSS for the Email App as well:
+npx tailwindcss -i ./src/index.css -o ./dist/email.css --minify
+
+## Build the CSS for the Chat App as well:
 
 npx tailwindcss -i ./src/index.css -o ./dist/chat.css --minify
 
